@@ -1,4 +1,6 @@
-import React from 'react'
+import React, { useEffect, useState } from 'react'
+import Pagination from '@mui/material/Pagination'
+
 
 function Exercises() {
   return (
